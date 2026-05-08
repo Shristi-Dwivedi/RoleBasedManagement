@@ -54,7 +54,7 @@ frontend/
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Shristi-Dwivedi/RoleBasedManagement)
 cd InternshipAssignment
 
 2. Backend Setup
